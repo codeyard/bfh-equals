@@ -16,7 +16,7 @@ Group 1:
 
 ## Ressources
 
-* [Project report](https://gitlab.ti.bfh.ch/cassd2021gruppe1/equals/-/blob/master/docs/Projektbericht_Equals_Gruppe1.pdf)
+* [Project report](https://github.com/codeyard/bfh-equals/blob/master/docs/Projektbericht_Equals_Gruppe1.pdf)
 * [Single Page Application](http://localhost:8080/equals_war)
 * [REST API](http://localhost:8080/equals_war/api)
 * [Swagger API Documentation & Interaction](http://localhost:8080/equals_war/swagger)
